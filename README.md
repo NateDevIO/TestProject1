@@ -1,5 +1,5 @@
 # TestProject1
-Test Project creation
+Test Project creation. Test text for test project.
 
 
 ---------------------------------------------------------------------------
